@@ -3,7 +3,7 @@
 
 
 # need python 2.7.10 or 2.7.11
-
+# it is better to use it in linux
 import urllib2,sys,os,ssl
 import time
 import threading
